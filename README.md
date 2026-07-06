@@ -129,3 +129,4 @@ Add these to `screenshots/` before submission:
 - `dataset_loaded.png` - after loading the CSV
 - `model_loaded.png` - after loading the saved model
 - `prediction_result.png` - after clicking a tweet / predicting manual text
+- - Saved model download link:https://drive.google.com/file/d/1Incxs5aWcViN5MaOsoGRPM1_VAXpw1hh/view?usp=sharing
